@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "noopener",
+    "noreferrer",
+    "predeploy"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "remimarsal.prettier-now"
+  },
+  "prettier.alignObjectProperties": true,
+  "prettier.breakProperty": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 80,
+  "prettier.spaceBeforeFunctionParen": true,
+  "editor.fontFamily": "Fira Code iScript"
+}
